@@ -38,7 +38,7 @@ Customer trust concerns.
 MFA: Added layers of security for account access.
 Web Application Firewall (WAF): Mitigates SQL Injection and XSS attacks.
 Encryption: All sensitive data is encrypted.
-PayPal Integration: Secure and reliable payment handling.
+PayPal/Stripe Integration: Secure and reliable payment handling.
 
 # References
 American Express. (2022, December 19). E-Commerce Security Threats and 
@@ -50,3 +50,12 @@ Bader, S. (2023, April 19). Common Risks with E-commerce | How to Avoid
 Them | Rewind. Rewind Backups. Retrieved September 7, 2024, from 
 https://rewind.com/blog/common-risks-with-ecommerce-and-how-to-avoid
 them/ 
+
+NIST. (2022, January 10). Multi-Factor Authentication | NIST. National Institute of 
+Standards and Technology. Retrieved September 8, 2024, from 
+https://www.nist.gov/itl/smallbusinesscyber/guidance-topic/multi-factor
+authentication 
+
+PayPal. (2024, June 25). Secure Logins with Multi-Factor Authentication. PayPal. 
+Retrieved September 6, 2024, from https://www.paypal.com/us/money
+hub/article/how-secure-authentication-works
